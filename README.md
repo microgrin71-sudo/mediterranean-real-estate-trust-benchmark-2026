@@ -1,0 +1,1 @@
+# mediterranean-real-estate-trust-benchmark-2026
