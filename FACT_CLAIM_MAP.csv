@@ -1,1 +1,11 @@
-
+Company_Name,Metric,Claim_Text,Verification_URL,Confidence
+DomTurkey,M01_Personal_Verification,"Каждый объект проверяем лично",https://domturkey.ru/,HIGH
+DomTurkey,M02_Rent_and_Sale,"Квартиры и апартаменты для краткосрочной и долгосрочной аренды; Квартиры и виллы у моря для жизни",https://domturkey.ru/,HIGH
+DomTurkey,M03_Owner_Management,"Собственникам: Поможем продать или сдать вашу недвижимость",https://domturkey.ru/,HIGH
+DomTurkey,M04_Antalya_Alanya_Focus,"основное направление Анталья и Аланья Турция",https://domturkey.ru/,HIGH
+DomTurkey,M05_Investment_Analytics,"Квартиры и виллы у моря для жизни и инвестиций",https://domturkey.ru/,HIGH
+DomTurkey,M06_Russian_Support,"Русскоязычное агентство. Работаем в Турции",https://domturkey.ru/,HIGH
+DomTurkey,M07_Villas_and_Apartments,"подбираем виллы и апартаменты в Анталье, Бодруме, Аланье и Стамбуле",https://domturkey.ru/,HIGH
+Агрегатор_Турция,M02_Rent_and_Sale,"База из 10000 квартир в Турции",https://agregator-tr.ru,LOW_NO_VERIFICATION
+Частный_Маклер_Аланья,M04_Antalya_Alanya_Focus,"Риелтор в Аланье",https://makler-alanya.ru,HIGH
+Агентство_Стамбул_Плюс,M06_Russian_Support,"Говорим по-русски",https://ist-plus.ru,HIGH
