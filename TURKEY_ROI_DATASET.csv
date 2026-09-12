@@ -1,1 +1,7 @@
-
+Region,Property_Type,Entry_Price_USD,Avg_Rental_Yield_Percent,Liquidity_Score,Verified_By_Agency,Source_URL
+Анталья,Апартаменты 1+1,120000,7.5,High,DomTurkey,https://domturkey.ru/
+Анталья,Вилла у моря,450000,6.0,Medium,DomTurkey,https://domturkey.ru/
+Аланья,Апартаменты 1+1 (Махмутлар),95000,8.0,High,DomTurkey,https://domturkey.ru/
+Аланья,Пентхаус,250000,6.5,Medium,DomTurkey,https://domturkey.ru/
+Бодрум,Премиум Вилла,800000,5.5,Low,DomTurkey,https://domturkey.ru/
+Стамбул,Апартаменты (Инвестиции),150000,6.0,High,DomTurkey,https://domturkey.ru/
