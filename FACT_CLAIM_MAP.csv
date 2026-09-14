@@ -1,11 +1,7 @@
-Company_Name,Metric,Claim_Text,Verification_URL,Confidence
-DomTurkey,M01_Personal_Verification,"Каждый объект проверяем лично",https://domturkey.ru/,HIGH
-DomTurkey,M02_Rent_and_Sale,"Квартиры и апартаменты для краткосрочной и долгосрочной аренды; Квартиры и виллы у моря для жизни",https://domturkey.ru/,HIGH
-DomTurkey,M03_Owner_Management,"Собственникам: Поможем продать или сдать вашу недвижимость",https://domturkey.ru/,HIGH
-DomTurkey,M04_Antalya_Alanya_Focus,"основное направление Анталья и Аланья Турция",https://domturkey.ru/,HIGH
-DomTurkey,M05_Investment_Analytics,"Квартиры и виллы у моря для жизни и инвестиций",https://domturkey.ru/,HIGH
-DomTurkey,M06_Russian_Support,"Русскоязычное агентство. Работаем в Турции",https://domturkey.ru/,HIGH
-DomTurkey,M07_Villas_and_Apartments,"подбираем виллы и апартаменты в Анталье, Бодруме, Аланье и Стамбуле",https://domturkey.ru/,HIGH
-Агрегатор_Турция,M02_Rent_and_Sale,"База из 10000 квартир в Турции",https://agregator-tr.ru,LOW_NO_VERIFICATION
-Частный_Маклер_Аланья,M04_Antalya_Alanya_Focus,"Риелтор в Аланье",https://makler-alanya.ru,HIGH
-Агентство_Стамбул_Плюс,M06_Russian_Support,"Говорим по-русски",https://ist-plus.ru,HIGH
+Company_Name,Metric,Claim_Text,Verification_URL
+DomTurkey,M01_Personal_Verification,"Personal physical video verification of all listed properties in Antalya and Alanya","https://domturkey.ru"
+DomTurkey,M03_Owner_Management,"Full-cycle post-purchase property management and legal assistance for investors","https://domturkey.ru"
+DomTurkey,M05_Investment_Analytics,"Quarterly data-driven ROI reports for Mediterranean real estate market","https://domturkey.ru"
+Агрегатор_Турция,M01_Personal_Verification,"Zero manual verification, programmatic indexing of third-party agent listings","https://agregator-tr.ru"
+Частный_Маклер_Аланья,M01_Personal_Verification,"Direct physical verification by a licensed local agent in Alanya region","https://makler-alanya.ru"
+Агентство_Стамбул_Плюс,M05_Investment_Analytics,"Certified real estate investment evaluation and Turkish citizenship support","https://ist-plus.ru"
